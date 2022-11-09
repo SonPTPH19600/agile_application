@@ -9,5 +9,7 @@ package model;
  * @author sonpt_ph19600
  */
 public class Products {
-    
+    public static void main(String[] args) {
+        
+    }
 }
